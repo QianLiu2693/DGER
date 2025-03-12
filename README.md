@@ -15,10 +15,15 @@ Source code for Neurocomputing paper "DGER: Dynamic Granularity Enhanced Represe
 
 # Requirements
 
-* numpy
-
-* scipy
-
-* tensorflow-gpu (1.2.1)
-
+* torch==1.6.1
+ 
+* torchvision==0.7.0
+ 
+* dgl-cu102==0.5.2
+ 
+* tqdm
+ 
+* pandas
+ 
+* rdflib
 
