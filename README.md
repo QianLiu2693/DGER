@@ -1,5 +1,7 @@
 # DGER
-Source code for Neurocomputing paper "DGER: Dynamic Granularity Enhanced Representation for Temporal Knowledge Graph Completion"
+Source code for Neurocomputing paper "DGER: Dynamic Granularity Enhanced Representation for Temporal Knowledge Graph Completion". 
+
+The source code necessary to reproduce the results in this paper will be made publicly available on https://github.com/QianLiu2693/DGER upon acceptance of the manuscript. The repository will include detailed documentation, example datasets, and configuration files to ensure reproducibility.
 
 # Usage:
 
